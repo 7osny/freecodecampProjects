@@ -1,3 +1,3 @@
 # freecodecampProjects
-#first #project
+# first # project
 https://codepen.io/7osny/project/full/ZoadoA/
